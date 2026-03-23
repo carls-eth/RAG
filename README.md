@@ -36,9 +36,3 @@ Ouvre ensuite http://localhost:5000 dans ton navigateur.
 2. Choisis la profondeur de crawl (2 recommandé)
 3. Clique **Indexer**
 4. Pose tes questions dans le chat
-
-## Sécurité
-
-- La clé Groq se met dans `.env`, jamais dans le code
-- Le dossier `chroma_db/` est dans `.gitignore`
-- Ne commite jamais ton `.env`
